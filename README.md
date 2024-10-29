@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am dedicated blockchain architect student with strong passion for the software development field. I actively pursue<br>knowledge and practical experience in software engineering, exploring various programming languages.
 
-<img src="https://i.ibb.co/Mkjg2y8/122.gif" align="right" height="400px" width="auto" style="padding-left: 200px"></img>
+<img src="https://i.ibb.co/Mkjg2y8/122.gif" align="right" height="300px" width="auto" style="padding-left: 200px"></img>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a3arnath) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amarnathkv03) 
