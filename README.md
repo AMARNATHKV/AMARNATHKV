@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amarnath K V</h1>
-<h3 align="center">A passionate blockchain architect student</h3>
+<h3 align="center">I am dedicated blockchain architect student with strong passion for the software development field. I actively pursue
+knowledge and practical experience in software engineering, exploring various programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarnathkv&label=Profile%20views&color=0e75b6&style=flat" alt="amarnathkv" /> </p>
 
